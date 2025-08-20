@@ -1,9 +1,8 @@
 # PumpFun - Solana Smart Contract Forked for Meteora
 ## Contact
 
-   If you need help or upgraded version, plz contact here: 
-   
-   [Twitter](https://x.com/0xmooncity)
+   If you need help or upgraded version, plz contact here:  
+
 
 **PumpFun Bonding Curve Protocol** is a Solana protocol that builds upon the **Meteora** Dex protocol to implement advanced functionalities for token rewards, liquidity management, and decentralized finance mechanics. This project is designed to integrate seamlessly with the Solana ecosystem, ensuring performance, scalability, and security.
 
